@@ -1,2 +1,3 @@
 # grandes-ideas
-Trabajará por los momentos con C++
+Me gustan las baleadas con todo 
+
