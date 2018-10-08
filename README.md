@@ -1,3 +1,2 @@
 # grandes-ideas
-Trabajará por los momentos con C++
-Espero que mis codigos sean de ayuda, desarrolladores
+Me gustan las baleadas con todo   
